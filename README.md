@@ -38,5 +38,5 @@ More details at [requirements.txt](https://github.com/Ys1ong/DLNLP_23_SN22082567
 - [Datasets](https://github.com/Ys1ong/DLNLP_23_SN22082567/tree/main/Datasets) is the datasets of this project.  
 - [Jupyter Code](https://github.com/Ys1ong/DLNLP_23_SN22082567/tree/main/Jupyter%20Code) is the early development of this project using Jupyter testing.  
 - [Results](https://github.com/Ys1ong/DLNLP_23_SN22082567/tree/main/Results) stores the results of this project.  
-- [main.py](https://github.com/Ys1ong/DLNLP_23_SN22082567/tree/main/main.py) is to run the whole project.  
-- [nlp.py](https://github.com/Ys1ong/DLNLP_23_SN22082567/tree/main/nlp.py) stores the function used for Task A,B,C and D.  
+- [main.py](https://github.com/Ys1ong/DLNLP_23_SN22082567/blob/main/main.py) is to run the whole project.  
+- [nlp.py](https://github.com/Ys1ong/DLNLP_23_SN22082567/blob/main/NLP.py) stores the function used for Task A,B,C and D.  
