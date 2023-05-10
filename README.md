@@ -24,7 +24,7 @@ More details at [requirements.txt](https://github.com/Ys1ong/DLNLP_23_SN22082567
 
 
 ## Datasets
-[Emotion Dataset for Emotion Recognition Tasks](https://github.com/Ys1ong/DLNLP_23_SN22082567/blob/main/Datasets/Emotion%20Dataset%20for%20Emotion%20Recognition%20Tasks.zip) obtained from [Kaggle](https://www.kaggle.com/datasets/parulpandey/emotion-dataset) contains English Twitter messages with six basic emotions: anger, fear, joy, love, sadness, and surprise.
+[Emotion Dataset for Emotion Recognition Tasks](https://github.com/Ys1ong/DLNLP_23_SN22082567/blob/main/Datasets) obtained from [Kaggle](https://www.kaggle.com/datasets/parulpandey/emotion-dataset) contains English Twitter messages with six basic emotions: anger, fear, joy, love, sadness, and surprise.
 
 [training.csv](https://github.com/Ys1ong/DLNLP_23_SN22082567/blob/main/Datasets/training.csv) contains 16,000 training tweets  
 [validation.csv](https://github.com/Ys1ong/DLNLP_23_SN22082567/blob/main/Datasets/validation.csv) contains 2,000 validation tweets  
