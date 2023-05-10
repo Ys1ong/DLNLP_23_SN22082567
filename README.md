@@ -2,6 +2,8 @@
 
 <p align="center">ELEC0141 Deep Learning for Natural Language Processing (DLNLP), Student Number: 22082567</p>
 
+The objective of this project is to categorize English Twitter messages into six basic emotions: `sadness', `joy', `love', `anger', `fear' and 'surprise'. Four models were used for classification. A used traditional machine learning model, Decision Tree. B, C, and D employed more complex artificial neural network (ANN) models built based on TensorFlow, including Multilayer Perceptron (MLP), Long Short-Term Memory (LSTM), and Bidirectional Long Short-Term Memory (BILSTM).
+
 ## Requirements
 Python 3.9.16
 
