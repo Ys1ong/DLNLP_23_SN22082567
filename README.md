@@ -31,7 +31,7 @@ More details at [requirements.txt](https://github.com/Ys1ong/DLNLP_23_SN22082567
 [validation.csv](https://github.com/Ys1ong/DLNLP_23_SN22082567/blob/main/Datasets/validation.csv) contains 2,000 validation tweets  
 [test.csv](https://github.com/Ys1ong/DLNLP_23_SN22082567/blob/main/Datasets/test.csv) contains 2,000 test tweets  
 
-## Folders
+## Folders and Files
 - [A](https://github.com/Ys1ong/DLNLP_23_SN22082567/tree/main/A) is the code for Task A using decision tree model.  
 - [B](https://github.com/Ys1ong/DLNLP_23_SN22082567/tree/main/B) is the code for Task B using MLP model.  
 - [C](https://github.com/Ys1ong/DLNLP_23_SN22082567/tree/main/C) is the code for Task C using LSTM model.  
@@ -41,6 +41,9 @@ More details at [requirements.txt](https://github.com/Ys1ong/DLNLP_23_SN22082567
 - [Results](https://github.com/Ys1ong/DLNLP_23_SN22082567/tree/main/Results) stores the results of this project.  
 - [main.py](https://github.com/Ys1ong/DLNLP_23_SN22082567/blob/main/main.py) is to run the whole project.  
 - [nlp.py](https://github.com/Ys1ong/DLNLP_23_SN22082567/blob/main/NLP.py) stores the function used for Task A,B,C and D.  
+
+## Reports
+Click here to see the full [report](https://github.com/Ys1ong/DLNLP_23_SN22082567/tree/main/Results).
 
 ## Results
 <table>
