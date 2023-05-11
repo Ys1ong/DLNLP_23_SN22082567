@@ -43,7 +43,7 @@ More details at [requirements.txt](https://github.com/Ys1ong/DLNLP_23_SN22082567
 - [nlp.py](https://github.com/Ys1ong/DLNLP_23_SN22082567/blob/main/NLP.py) stores the function used for Task A,B,C and D.  
 
 ## Reports
-Click here to see the full [report](https://github.com/Ys1ong/DLNLP_23_SN22082567/tree/main/Results).
+Click here to see the full [report](https://github.com/Ys1ong/DLNLP_23_SN22082567/blob/main/Results/Deep_Learning_for_Natural_Language_Processing__ELEC0141__23_report.pdf).
 
 ## Results
 <table>
